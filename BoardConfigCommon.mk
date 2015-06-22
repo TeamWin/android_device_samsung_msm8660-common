@@ -86,7 +86,7 @@ TARGET_USES_QCOM_BSP := true
 TARGET_USE_QCOM_BIONIC_OPTIMIZATION := true
 
 # Recovery
-TARGET_RECOVERY_FSTAB := device/samsung/msm8660-common/rootdir/etc/fstab.qcom
+TARGET_RECOVERY_FSTAB := device/samsung/msm8660-common/recovery.fstab
 
 # RIL
 BOARD_RIL_CLASS := ../../../device/samsung/msm8660-common/ril
